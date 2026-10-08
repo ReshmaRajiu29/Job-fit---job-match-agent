@@ -1,0 +1,40 @@
+Role: AI Application Developer
+
+Company: BrightPath Digital
+
+Job Summary:
+We are looking for an AI Application Developer to build practical AI-powered applications using Python, APIs, and modern LLM technologies. The candidate should be comfortable developing backend services, integrating AI models, and deploying applications to the cloud.
+
+Key Responsibilities:
+- Build AI-powered applications using Python
+- Develop and integrate REST APIs
+- Integrate LLM APIs into applications
+- Build Retrieval-Augmented Generation (RAG) workflows
+- Work with vector databases and semantic search
+- Develop simple user interfaces using Streamlit
+- Containerize applications using Docker
+- Deploy applications to cloud platforms
+- Collaborate with developers and business teams
+- Test and improve AI application reliability
+
+Required Skills:
+- Strong Python programming skills
+- Java 
+- Experience building REST APIs
+- Good understanding of Git
+- Experience with Docker
+- Knowledge of LLM APIs
+- Understanding of RAG concepts
+- Basic knowledge of vector databases
+- Cloud deployment experience
+- Good communication skills
+
+Preferred Skills:
+- Streamlit
+- Groq or OpenAI APIs
+- FAISS
+- Prompt engineering
+- Experience building AI prototypes
+
+Experience:
+2 to 4 years of software development experience preferred.
